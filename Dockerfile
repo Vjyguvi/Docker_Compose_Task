@@ -6,5 +6,5 @@ COPY ./index.html index.html
 
 EXPOSE 80
 
-CMD [ "sh" ]
+CMD [ "/bin/bash" ]
 
